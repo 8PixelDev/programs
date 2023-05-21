@@ -9,16 +9,16 @@ local Keys = {
     {"Vestir","camisademangacomprida"},
     {"Feriado","diadaindependencia"},
 
-    {"Kit de Socorro","aspirina"},
+    {"Kit de Socorro","termômetro"},
     {"Sentar","cadeiradebalanco"},
     {"Fruta","frutadodragao"},
 
     {"Algo quente","chocolatequente"},
-    {"Levar praia","protetorsolar"},
+    {"Levar praia","cadeiradepraia"},
     {"Restaurante","hamburgueres"},
     {"Quarto","escrivaninha"},
 
-    {"Sala de estar","cadeiradebalanco"},
+    {"Sala de estar","controleremotodetelevisão"},
     {"Urso","ursodasneves"},
     {"Algo crianca pedir ajuda","guardadetransito"},
     {"Delegacia","carrosdepolicia"},
@@ -89,9 +89,9 @@ local Keys = {
     {"Sala Aula","quadrobranco"},
     {"Quadro","quadrobranco"},
 
-    {"App Social","instragram"},
+    {"App Social","facebookmenssager"},
     {"Fruta verde","goiaba"},
-    {"Garagem","ferramentas"},
+    {"Garagem","carroelétrico"},
     {"Forma","paralelograma"},
 
     {"Cenoura Cor","laranjaavermelhado"},
@@ -104,6 +104,9 @@ local Keys = {
     {"Estudar Local","biblioteca"},
     {"Cobra Tipo","cascavel"},
     
+    {"Salada","tomateecereja"},
+    {"Religião","cristianismo"},
+    {"Desastre Natural","terremoto"},
 }
 
 local n = 0
