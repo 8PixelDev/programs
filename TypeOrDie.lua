@@ -107,6 +107,8 @@ local Keys = {
     {"Salada","tomateecereja"},
     {"Religião","cristianismo"},
     {"Desastre Natural","terremoto"},
+    {"Cachorro","dalmata"},
+    {"Peixe","peixepalhaco"},
 }
 
 local n = 0
